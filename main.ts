@@ -2,7 +2,7 @@
  *
  * Created by: Mohammed Afheej
  * Created on: Nov 2024
- * This program ...
+ * This program Move aroud the edge of the screen 
 */
 
 // variables
